@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     padding: 0%;
     margin: 0%;
@@ -7,4 +10,9 @@ body{
     margin: 10%;
     border: 1px solid;
     border-radius: 15px;
+    transition: 0.5s;
+}
+#trứng_đầu_gấu:hover{
+    width: 100%;  
+    margin: 0%;
 }
