@@ -16,3 +16,10 @@ body{
     width: 100%;  
     margin: 0%;
 }
+video{
+    width: 80%;
+    margin: 10%;
+}
+video:hover{
+    
+}
