@@ -1,0 +1,10 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+#trứng_đầu_gấu{
+    width: 80%;
+    margin: 10%;
+    border: 1px solid;
+    border-radius: 6px;
+}
